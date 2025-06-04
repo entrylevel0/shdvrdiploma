@@ -1,244 +1,304 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="5.2.4" apprev="15996" start="node5">
-  <panorama id="node5">
-    <input width="7063" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="7063" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="7063" predecode="0" preload="0" height="7063"/>
-      <level width="3531" predecode="0" preload="0" height="3531"/>
-      <level width="1765" predecode="0" preload="0" height="1765"/>
-      <level width="882" predecode="0" preload="0" height="882"/>
-      <level width="441" predecode="1" preload="1" height="441"/>
-      <preview color="0x808080" strip="1"/>
+<tour appversion="5.2.4" start="node5" apprev="15996">
+  <panorama hideabout="1" id="node5">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="7063" width="7063" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="7063" width="7063" predecode="0"/>
+      <level preload="0" height="3531" width="3531" predecode="0"/>
+      <level preload="0" height="1765" width="1765" predecode="0"/>
+      <level preload="0" height="882" width="882" predecode="0"/>
+      <level preload="1" height="441" width="441" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="0" fov="90" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 19:25"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node4}" target="" id="Point01" pan="60.57" description="" title="" tilt="-0.57" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 19:25" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="60.57" description="" url="{node4}" skinid="ht_node" tilt="-0.57" title="" id="Point01"/>
+      <hotspot target="" pan="1.53" description="Инсталляция «Мировой свистопляс» представляет уникальную музейную коллекцию свистулек. Ее географический охват включает в себя 43 страны. Самый ранний инструмент датируется 3000-м годом до нашей эры, а самый поздний - 2006 годом. Свистулька - один из древнейших музыкальных инструментов планеты. Как и флейта, она может имитировать звуки природного мира (в основном пение птиц), но в отличие от флейты свистулька-это еще и продукт художественного промысла, с помощью которого мастера изображали мир человеческого бытия. Процесс изготовления свистульки подобен основным элементам Творения Господня: гончар поступает как Бог, создававший человека он также берет землю, смешивает ее с водой, руками лепит образ, «вдыхает» в него воздух (наделяет образ «душой», делая его звучащим), и, наконец, в огне укрепляет этот образ (дает ему «жизненную силу»).&#xa;Свистульки музейной коллекции демонстрируют разнообразие пластиче ских образов, цветовой гаммы и звуковых особенностей; среди них превалируют и зооантропоморфные образы, напоминая о неразрывных связях человека с природой. Чаще всего запечатлены птицы летающие, плавающие и шагающие. Это связано с древними верованиями людей в существование трех миров: верхнего (небо), среднего (земля) и нижнего (подводного или подземного). Отсюда множественность вариантов «свистульки-уточки» как существа, владеющего всеми тремя мирами. Не менее популярны образы «петушка» и «курочки». В таких свистульках народы разных стран воплотили образ многодетной семьи, обильного детородия. Другой распространенный вид свистулек в виде домашних животных вариантами «лошадок», «собачек», «коровок», «бычков», «барашков». И, конечно же, не может не обратить на себя внимания многоуровневый образ «свистульки-человека», каждая из которых имеет свою «физиономию» и точ- но схваченные мастерами национальные черты.&#xa;В древности свистульки использовались в различных культах, и это сохранилось в традициях разных народов. В Провансе, например, свистульками призывали ветер, чтобы он провеял собранное зерно; в других странах ими призывали дождь; в Суссексе (Англия) большую свистульку-голубя замуровывали в печную трубу, чтобы отпугивать злых духов. Документально засвиде тельствован факт использования свистулек древними вятичами в поминаль- ном обряде в ХІІІ веке, называемого «свистопляс».&#xa;Свистулька была средством общения влюбленных. В северной Италии и Ис пании юноши дарили девушкам глиняную корзинку с вделанной свистулькой; если девушка свистнет значит «да»; если девушка роняет подаренную свистульку - значит «нет».&#xa;Постепенно свистульки превратились в игрушки, сегодня это популярная сувенирная продукция." url="" skinid="ht_info" tilt="-39.34" title="«Мировой свистопляс»" id="Point02"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node4">
-    <input width="6884" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6884" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6884" predecode="0" preload="0" height="6884"/>
-      <level width="3442" predecode="0" preload="0" height="3442"/>
-      <level width="1721" predecode="0" preload="0" height="1721"/>
-      <level width="860" predecode="0" preload="0" height="860"/>
-      <level width="430" predecode="1" preload="1" height="430"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node4">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="6884" width="6884" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6884" width="6884" predecode="0"/>
+      <level preload="0" height="3442" width="3442" predecode="0"/>
+      <level preload="0" height="1721" width="1721" predecode="0"/>
+      <level preload="0" height="860" width="860" predecode="0"/>
+      <level preload="1" height="430" width="430" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-85.31" fov="90" tilt="1.68"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-85.31" projection="4" tilt="1.68" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="8D_photo" source="" datetime="23.05.2025 19:17"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node3}" target="" id="Point01" pan="-77.77" description="" title="" tilt="-12.99" skinid="ht_node"/>
-      <hotspot url="{node5}" target="" id="Point02" pan="78.84" description="" title="" tilt="-16.86" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 19:17" author="" longitude="" copyright="" source="" tags="8D_photo" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="-77.77" description="" url="{node3}" skinid="ht_node" tilt="-12.99" title="" id="Point01"/>
+      <hotspot target="" pan="78.84" description="" url="{node5}" skinid="ht_node" tilt="-16.86" title="" id="Point02"/>
+      <hotspot target="" pan="-44.75" description="В тот момент, когда люди поняли, что, вдувая воздух в полый сосуд, они заставляют его звучать, они получили ключ к созданию аэрофонов - класса музыкальных инструментов, название которого состоит из двух греческих слов - воздух и звук. Не позднее Каменного века для &quot;воздуха&quot; были отобраны наиболее подходящие объемы - труба и сосуд. Это были времена праинмтрументов, с которых началось и непрерывно продолжается накопление опыта по их усовершенствованию. В древности же были изопретены и способы, позволявшие приводить в колебание &quot;воздух&quot;, заключенный в трубах и сосудах. Последующим поколениям оставалось упорно и бесконечно создавать модификации этих архетипов, добиваясь желаемых диапазона, чистоты интонации, тембра за счет снабжения архетипов отверстиями, клапанами, тростями, мундштуками и другими звукогенерирующими устройствами.&#xa;Идея экспозиции - покзаать, как простейшие и древнейшие музыкальные инструменты народов мира превращаются в королей на троне музыкального олимпа. Из музейной коллекции представлены археологические сосудофлейты (3 тысячи лет до н.э.), и костяная флейта (2 тысячи лет до н.э.), разнообразные виды флейт, изготовленных из тех материалов, которые люди находили на своей земле: камыш, дерево, тростник. А в центре экспозиции - демонстративный орган. И это не случайно: основой для создания органной трубы, а значит и самого органа послужила конструкция свисткового приспособления сосудофлейты. Если дать предельно сжатое определение устройства органа, то оно будет выглядеть так: орган есть набор однотоновых свистковых сосудофлейт, т.е. свистулек. Однако какая разница между хаотичным разноголосьем &quot;Мирового свистопляса&quot; - в экспозиции птичий гомон имитируют 40 свистулек - и стройным торжественным звучанием органа! 42-трубный демонстрационный орган специально создан мастером П. Чилиным, чтобы посетители могли увидеть работу механики, с помощью которой взлетают в небо мощные, божественной красоты звуки.&#xa;В экспозиции представлены все виды аэрофонов, которыми веками пользовались в народном быту: пастушеские рожки, охотничьи рога и трубы. От флейт они отличаются наличием мундштуков для вдувания воздуха. Со временем они модифицировались в группу профессиональных мундштучных инструментовю А старинные народные жалейки, снабженные язычеовым устройством, представлены как ближайшие родственники гармоник и баянов, распространенных по всему миру.&#xa;Природные шумы, сопровождающие вас в экспозиционных залах, воспросизведены из записанных звуков инструментов музейной коллекции. А на мониторах вы можете посмотреть аудио инсталляции. В век технологий люди по-прежнему по-детски удивляются звуковым загадкам природы и в то же время, оснащенные компьютерной стехникой, пытаются смоделировать запредельный для человеческого уха звук. Поистине, процесс постижения звукового пространства бесконечен!&#xa;&#xa;В декоративном убранстве залов представлены живописные работы М. Исаева и световые скульптуры Э. Капелюша." url="" skinid="ht_info" tilt="6.56" title="От свистульки до органа" id="Point03"/>
+      <hotspot target="_blank" pan="-179.77" description="" url="" skinid="ht_url" tilt="15.15" title="" id="Point04"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node3">
-    <input width="6906" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6906" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6906" predecode="0" preload="0" height="6906"/>
-      <level width="3453" predecode="0" preload="0" height="3453"/>
-      <level width="1726" predecode="0" preload="0" height="1726"/>
-      <level width="863" predecode="0" preload="0" height="863"/>
-      <level width="431" predecode="1" preload="1" height="431"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node3">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="-1" height="6906" width="6906" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6906" width="6906" predecode="0"/>
+      <level preload="0" height="3453" width="3453" predecode="0"/>
+      <level preload="0" height="1726" width="1726" predecode="0"/>
+      <level preload="0" height="863" width="863" predecode="0"/>
+      <level preload="1" height="431" width="431" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-89.87" fov="90" tilt="-0.43"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-85.29" projection="4" tilt="-1.51" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 19:06"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node4}" target="" id="Point01" pan="91.39" description="" title="" tilt="-11.77" skinid="ht_node"/>
-      <hotspot url="{node6}" target="" id="Point02" pan="-82.9" description="" title="" tilt="-13.52" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 19:06" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="91.39" description="" url="{node4}" skinid="ht_node" tilt="-11.77" title="" id="Point01"/>
+      <hotspot target="" pan="-82.9" description="" url="{node6}" skinid="ht_node" tilt="-13.52" title="" id="Point02"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node6">
-    <input width="6872" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6872" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6872" predecode="0" preload="0" height="6872"/>
-      <level width="3436" predecode="0" preload="0" height="3436"/>
-      <level width="1718" predecode="0" preload="0" height="1718"/>
-      <level width="859" predecode="0" preload="0" height="859"/>
-      <level width="429" predecode="1" preload="1" height="429"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node6">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="6872" width="6872" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6872" width="6872" predecode="0"/>
+      <level preload="0" height="3436" width="3436" predecode="0"/>
+      <level preload="0" height="1718" width="1718" predecode="0"/>
+      <level preload="0" height="859" width="859" predecode="0"/>
+      <level preload="1" height="429" width="429" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-88.93" fov="90" tilt="-0.83"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-88.93" projection="4" tilt="-0.83" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 18:56"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node8}" target="" id="Point01" pan="-83.35" description="" title="" tilt="-12.68" skinid="ht_node"/>
-      <hotspot url="{node3}" target="" id="Point02" pan="83.88" description="" title="" tilt="-12.2" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 18:56" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="-83.35" description="" url="{node8}" skinid="ht_node" tilt="-12.68" title="" id="Point01"/>
+      <hotspot target="" pan="83.88" description="" url="{node3}" skinid="ht_node" tilt="-12.2" title="" id="Point02"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node8">
-    <input width="6951" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6951" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6951" predecode="0" preload="0" height="6951"/>
-      <level width="3475" predecode="0" preload="0" height="3475"/>
-      <level width="1737" predecode="0" preload="0" height="1737"/>
-      <level width="868" predecode="0" preload="0" height="868"/>
-      <level width="434" predecode="1" preload="1" height="434"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node8">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="6951" width="6951" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6951" width="6951" predecode="0"/>
+      <level preload="0" height="3475" width="3475" predecode="0"/>
+      <level preload="0" height="1737" width="1737" predecode="0"/>
+      <level preload="0" height="868" width="868" predecode="0"/>
+      <level preload="1" height="434" width="434" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-104.95" fov="90" tilt="-0.38"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-104.95" projection="4" tilt="-0.38" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 18:47"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node7}" target="" id="Point01" pan="-100.22" description="" title="" tilt="-17.59" skinid="ht_node"/>
-      <hotspot url="{node6}" target="" id="Point02" pan="99.21" description="" title="" tilt="-10.95" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 18:47" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="-100.22" description="" url="{node7}" skinid="ht_node" tilt="-17.59" title="" id="Point01"/>
+      <hotspot target="" pan="99.21" description="" url="{node6}" skinid="ht_node" tilt="-10.95" title="" id="Point02"/>
+      <hotspot target="" pan="67.85" description="Дар Музей театрального и музыкального искусства от Музей балалайки в Ульяновске" url="" skinid="ht_info" tilt="10.9" title="Мастерская балалаечного мастера" id="Point03"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node7">
-    <input width="6820" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6820" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6820" predecode="0" preload="0" height="6820"/>
-      <level width="3410" predecode="0" preload="0" height="3410"/>
-      <level width="1705" predecode="0" preload="0" height="1705"/>
-      <level width="852" predecode="0" preload="0" height="852"/>
-      <level width="426" predecode="1" preload="1" height="426"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node7">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="6820" width="6820" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6820" width="6820" predecode="0"/>
+      <level preload="0" height="3410" width="3410" predecode="0"/>
+      <level preload="0" height="1705" width="1705" predecode="0"/>
+      <level preload="0" height="852" width="852" predecode="0"/>
+      <level preload="1" height="426" width="426" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-119.18" fov="90" tilt="-2.45"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-119.18" projection="4" tilt="-2.45" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 18:35"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node1}" target="" id="Point01" pan="-126.14" description="" title="" tilt="-16.52" skinid="ht_node"/>
-      <hotspot url="{node8}" target="" id="Point02" pan="127.64" description="" title="" tilt="-15.39" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 18:35" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="-126.14" description="" url="{node1}" skinid="ht_node" tilt="-16.52" title="" id="Point01"/>
+      <hotspot target="" pan="127.64" description="" url="{node8}" skinid="ht_node" tilt="-15.39" title="" id="Point02"/>
+      <hotspot target="" pan="-143.74" description="Этнический раздел экспозиции «Музыкальные инструменты народов мира» начинается с темы «Русские народные инструменты». Уникальное собрание гуслей, гудков, балалаек, домр, свирелей, рожков, гармоник и других инструментов, которые веками звучали и звучат на просторах России, позволяет представить в экспозиции эволюцию русского инструментария от фольклорного к профессиональ- ному: от простейших крестьянских до виртуозных профессиональных инструментов, которые обогатили отечественную и мировую музыкальную культуру.&#xa;Исторически сложилось так, что музицирование народное (по слуху) и профессиональное (по нотам), начиная с эпохи Петра I, существовали В России параллельно. И даже большой интерес русских композиторов ХІХ в. к песенному творчеству, их стремление объединить европейское музыкальное искусство с русскими народными мелодиями не повлекло за собой такого же интереса к народному инструментарию - музыку они писали для симфонического оркестра и инструментов европейского образца.&#xa;Первый результативный интерес к народным инструментам возник в конце ХІХ в. одновременно с началом деятельности выдающегося музыканта В. В. Андреева. Не удивительно, что самые ранние сохранившиеся русские народные инструменты датируются ХVІІІ в., и они являются большой редкостью, т.к. их не коллекционировали. Обветшавшие, они уничтожались за ненадобностью, некоторые виды старинных инструментов исчезли совсем.&#xa;всего&#xa;-&#xa;Андреев вскрыл первобытный, уже надежно забытый пласт национальной музыкальной памяти и явил его - вначале и прежде мировой. отечественной музыкальной культуре, а затем - Однажды слушая игру крестьянина Антипа, он был настолько поражен скрытыми возможностями балалайки, что служение ей сделал смыслом своей жизни. Согласно идеям Андреева и его соратников мастера преобразовали балалайку в роскошный виртуозный инструмент со мягким, нежным, широким и своим характером звучания задушевным. Балалайка Андреева покорила мир. После этого в процесс преобразования вовлекались почти все традиционные инструменты: духовые -свирель, жалейка, гармоника, рожок; струнные - гусли, барабан, бубен, накры. Некоторые, уже бандурка, гудок; ударные исчезнувшие из народного быта, были реконструированы (гудок, домра). Конечным же результатом деятельности Андреева и его соратников явилось создание Оркестра русских народных инструментов, который исполнял обработки русских народных песен, переложения симфонических произведений, авторскую музыку именно для данного оркестра.&#xa;-&#xa;Андреев был первопроходцем, но не одиночкой. Его ближайшими соратниками стали Н. И. Привалов, Н. П. Фомин, О. У. Смоленский, а также ученые, коллекционеры, исполнители и инструментальные гордость музейного мастера. В этой плодотворной среде появился гениальный мастер С. И. Налимов, которого называют «балалаечным Страдивари». балалайка, на которой играл В. Андреев. 14 инструментов работы С. И. Налимова собрания. Среди них Вы сможете увидеть и услышать ее в экспозиции. Не меньший интерес представляют редкие экземпляры традиционных инструментов, в том числе из коллекции Н. И. Привалова.&#xa;Путеводителем по экспозиции служит мультимедийный тур. На сенсорном экране можно выбрать любой экспонат, узнать его историю, услышать звучание современных реконструкций старинных инструментов, а в некоторых случаях и уникальные записи звучания музейных инструментов." url="" skinid="ht_info" tilt="4.58" title="Русские народные инструменты" id="Point03"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node1">
-    <input width="6867" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6867" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6867" predecode="0" preload="0" height="6867"/>
-      <level width="3433" predecode="0" preload="0" height="3433"/>
-      <level width="1716" predecode="0" preload="0" height="1716"/>
-      <level width="858" predecode="0" preload="0" height="858"/>
-      <level width="429" predecode="1" preload="1" height="429"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node1">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="6867" width="6867" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6867" width="6867" predecode="0"/>
+      <level preload="0" height="3433" width="3433" predecode="0"/>
+      <level preload="0" height="1716" width="1716" predecode="0"/>
+      <level preload="0" height="858" width="858" predecode="0"/>
+      <level preload="1" height="429" width="429" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-153.36" fov="90" tilt="-3.18"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-153.36" projection="4" tilt="-3.18" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 18:07"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node2}" target="$fwd" id="Point01" pan="-110.82" description="" title="" tilt="-14.02" skinid="ht_node"/>
-      <hotspot url="{node7}" target="" id="Point02" pan="33.86" description="" title="" tilt="-8.14" skinid="ht_node"/>
-      <hotspot url="{node9}" target="" id="Point03" pan="-152.36" description="" title="" tilt="-9.08" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 18:07" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" pan="-110.82" description="" url="{node2}" skinid="ht_node" tilt="-14.02" title="" id="Point01"/>
+      <hotspot target="" pan="33.86" description="" url="{node7}" skinid="ht_node" tilt="-8.14" title="" id="Point02"/>
+      <hotspot target="" pan="-152.36" description="" url="{node9}" skinid="ht_node" tilt="-9.08" title="" id="Point03"/>
+      <hotspot target="" pan="-168.73" description="В экспозиции «Музыкальные инструменты народов мира» вслед за русскими народными инструментами представлены инструменты народов Востока, соседствующих с Россией. Один шаг в смежный зал - словно шаг на географической карте и вы попадаете в загадочную культуру Востока, такую привлекательную своей древней историей, поэзией народных легенд и изысканной красотой.&#xa;Сегодня ирано-персидские инструменты, а также инструменты народов Средней Азии и Кавказа составляют внушительную часть музейной коллекции. Ее доминанта персидские инструменты ХVIII века, переданные императрицей Марией Федоровной Музею музыкальных инструментов Придворного оркестра в 1907 году. Они экспонируются в центре зала в исторической витрине, изготовленной тогда же специально для них.&#xa;Мы назвали экспозицию «Ожерелье Шехеразады». Подобно тому, как сказки персидской царицы Шехеразады в «Тысяча одной ночи» обрастали сказками других восточных народов, дар императрицы в музейной коллекции пополнялся инструментами разных восточных народов, испытавших на протяжении тысячелетий влияние арабской и иранской культуры. В витринах представлены инструменты азербайджанцев, армян, грузин, таджиков, узбеков, киргизов, казахов, абхазов, многочисленных горских народов огромное разнообразие однотипных инструментов, главным образом XIX и XX веков. Их история начинается в древних цивилизациях, существовавших на территории современных государств Ближнего Востока, Центральной Азии и Кавказа. Древние артефакты хранятся в национальных музеях Востока. Особенность же петербургской коллекции в том, что она отражает культурные связи восточных народов с Россией.&#xa;Некоторые инструменты, представленные в экспозиции, поступили в Музей из собраний выдаю щихся музыкантов, этнографов, коллекционеров и исследователей В. В. Андреева, Н. И.Привалова, Н. Ф. Финдейзена. Это неслучайно. Они исследовали родословную русских инструментов. По ряду научных мнений русские инструменты являются адаптированными еще в Древней Руси вариантами восточных инструментов, завезенных сюда по торговым путям. Русская домра, с которой выступали В ХѴІ-ХѴІІ веках скоморохи, это метаморфоза арабского уда, которому около 4000 лет. Интересно, что балалайка на гравюрах ХѴІII века очень напоминает казахскую домбру, появившуюся не менее 1500 лет назад. Подчеркивая эти родственные связи, для экспозиции была создана видеозапись, где балалайка В. В. Андреева звучит вместе с ее прапрародителем восточным удом и в ансамбле с домрой.&#xa;Начиная с 1920-х годов в республиках СССР возникла практика создания национальных оркестров народных инструментов по примеру Великорусского оркестра им. В. В. Андреева. В республиках Средней Азии и Закавказья были организованы экспериментальные мастерские, где талантливые мастера с энтузиазмом разрабатывали оркестровые конструкции традиционных&#xa;восточных инструментов: гиджаки, кыяки, кеманчи, комузы, тары, дудуки разного диапазона звучания от пикколо до контрабаса. В экспозиции особо выделен этот комплекс экспонатов. Практика советских лет имела большое значение для развития музыкальной культуры соседних восточных народов, получивших и мотную грамоту, и свои композиторские школы. По сей день на оркестровых инструментах учатся исполнительскому мастер- ству в национальных музыкальных школах и консерваториях. А современные музыкальные мастера используют опыт своих предшественников, возрождая на новом витке истории традиционные инструменты для их звучания на больших концертных сценах.&#xa;Еще один символический знак культурной связи народов в экспозиции «Ожерелье Шехеразады рояль композитора А. П. Бородина. Русские композиторы, очарованные красотой восточной музыки, разнообразно использовали в своих произведениях подлинные восточные народ- ные мелодии. «Русская музыка о востоке вошла в сокровищницу мирового музыкального наследия. У вас есть возможность увидеть сцену из балета на музыку Н. А. Римского-Корсакова «Шехеразада» и услышать фрагмент из «Половецких плясок» А. П. Бородина, исполненный на рояле, за которым работал композитор." url="" skinid="ht_info" tilt="4.52" title="&#xa;«Ожерелье Шехеразады» Музыкальные инструменты народов Ближнего Востока, Кавказа и Средней Азии" id="Point04"/>
+      <hotspot target="" pan="-57.5" description="" url="" skinid="ht_info" tilt="9.94" title="Кеманча" id="Point05"/>
+      <hotspot target="" pan="-71.67" description="" url="" skinid="ht_info" tilt="1.94" title="Саз" id="Point06"/>
+      <hotspot target="" pan="-84.75" description="" url="" skinid="ht_info" tilt="8.39" title="Кеманча" id="Point07"/>
+      <hotspot target="" pan="-94.91" description="" url="" skinid="ht_info" tilt="-6.07" title="Танбур-шарки" id="Point08"/>
+      <hotspot target="" pan="-44.22" description="" url="" skinid="ht_info" tilt="-6.94" title="Тар персидский" id="Point09"/>
+      <hotspot target="" pan="-32.88" description="" url="" skinid="ht_info" tilt="-1.81" title="Голтуг саз" id="Point10"/>
+      <hotspot target="" pan="-71.34" description="" url="" skinid="ht_info" tilt="-38.63" title="Сантур" id="Point11"/>
+      <hotspot target="" pan="-66.3" description="" url="" skinid="ht_info" tilt="-47.11" title="Най" id="Point12"/>
+      <hotspot target="" pan="-99.08" description="" url="" skinid="ht_info" tilt="-38.89" title="Нейлобок" id="Point13"/>
+      <hotspot target="" pan="-34.84" description="" url="" skinid="ht_info" tilt="-40.64" title="Зурна" id="Point14"/>
+      <hotspot target="" pan="-41.69" description="" url="" skinid="ht_info" tilt="-39.98" title="Тутак" id="Point15"/>
+      <hotspot target="" pan="-34.67" description="" url="" skinid="ht_info" tilt="-29.97" title="Томбак" id="Point16"/>
+      <hotspot target="" pan="-87.47" description="" url="" skinid="ht_info" tilt="-30.16" title="Дайере" id="Point17"/>
+      <hotspot target="" pan="81.59" description="" url="" skinid="ht_info" tilt="28.27" title="Саламури" id="Point18"/>
+      <hotspot target="" pan="76.6" description="" url="" skinid="ht_info" tilt="26.67" title="Тутак" id="Point19"/>
+      <hotspot target="" pan="74.78" description="" url="" skinid="ht_info" tilt="26.34" title="Саламури" id="Point20"/>
+      <hotspot target="" pan="73.23" description="" url="" skinid="ht_info" tilt="24.66" title="Тутак" id="Point21"/>
+      <hotspot target="" pan="71.81" description="" url="" skinid="ht_info" tilt="24.07" title="Баламия" id="Point22"/>
+      <hotspot target="_blank" pan="69.95" description="" url="" skinid="ht_url" tilt="21.66" title="Дудук" id="Point23"/>
+      <hotspot target="" pan="90.17" description="" url="" skinid="ht_info" tilt="14.76" title="Тар азербайджанский" id="Point24"/>
+      <hotspot target="" pan="84.54" description="" url="" skinid="ht_info" tilt="11.29" title="Тар азербайджанский" id="Point25"/>
+      <hotspot target="" pan="85.55" description="" url="" skinid="ht_info" tilt="17.35" title="Кямани" id="Point26"/>
+      <hotspot target="" pan="80.53" description="" url="" skinid="ht_info" tilt="11.32" title="Чогур" id="Point27"/>
+      <hotspot target="" pan="77.23" description="" url="" skinid="ht_info" tilt="15.56" title="Джура саз" id="Point28"/>
+      <hotspot target="" pan="72.31" description="" url="" skinid="ht_info" tilt="9.78" title="Джура саз" id="Point29"/>
+      <hotspot target="" pan="71.53" description="" url="" skinid="ht_info" tilt="15.16" title="Кямани" id="Point30"/>
+      <hotspot target="" pan="90.55" description="" url="" skinid="ht_info" tilt="-8.39" title="Кеманча" id="Point31"/>
+      <hotspot target="" pan="79.26" description="" url="" skinid="ht_info" tilt="-11.75" title="Кеманча" id="Point32"/>
+      <hotspot target="" pan="78.16" description="" url="" skinid="ht_info" tilt="-0.18" title="Кеманча" id="Point33"/>
+      <hotspot target="" pan="73.12" description="" url="" skinid="ht_info" tilt="-3.22" title="Кеманча" id="Point34"/>
+      <hotspot target="" pan="69.21" description="" url="" skinid="ht_info" tilt="-9.83" title="Кеманча" id="Point35"/>
+      <hotspot target="" pan="71.23" description="" url="" skinid="ht_info" tilt="-5.13" title="Кеманча" id="Point36"/>
+      <hotspot target="" pan="83.02" description="" url="" skinid="ht_info" tilt="-6.56" title="Дайра" id="Point37"/>
+      <hotspot target="" pan="74.75" description="" url="" skinid="ht_info" tilt="-9.67" title="Доол" id="Point38"/>
+      <hotspot target="" pan="91.61" description="" url="" skinid="ht_info" tilt="-18.7" title="Саз" id="Point39"/>
+      <hotspot target="" pan="88.5" description="" url="" skinid="ht_info" tilt="-18.14" title="Тар азербайджанский" id="Point40"/>
+      <hotspot target="" pan="86.33" description="" url="" skinid="ht_info" tilt="-19.14" title="Саз" id="Point41"/>
+      <hotspot target="" pan="83.44" description="" url="" skinid="ht_info" tilt="-18.35" title="Тар азербайджанский" id="Point42"/>
+      <hotspot target="" pan="80.23" description="" url="" skinid="ht_info" tilt="-19.97" title="Кямани" id="Point43"/>
+      <hotspot target="" pan="73.74" description="" url="" skinid="ht_info" tilt="-19.69" title="Зурна" id="Point44"/>
+      <hotspot target="" pan="77.14" description="" url="" skinid="ht_info" tilt="-19.13" title="Зурна" id="Point45"/>
+      <hotspot target="" pan="75.07" description="" url="" skinid="ht_info" tilt="-18.08" title="Зурна" id="Point46"/>
+      <hotspot target="" pan="72.89" description="" url="" skinid="ht_info" tilt="-17.71" title="Зурна" id="Point47"/>
+      <hotspot target="" pan="71.58" description="" url="" skinid="ht_info" tilt="-18.68" title="Зурна" id="Point48"/>
+      <hotspot target="" pan="14.23" description="Автор Т.Н. Чурсинова&#xa;Россия, Санкт-Петербург, 2016&#xa;Ткань хлопчатобумажная, шелк, вискоза, нитки, шитье" url="" skinid="ht_info" tilt="7.95" title="Панно с изображением женщины, играющей на кеманче" id="Point49"/>
+      <hotspot target="" pan="4.28" description="Автор Т.Н. Чурсинова&#xa;Россия, Санкт-Петербург, 2016&#xa;Ткань хлопчатобумажная, шелк, вискоза, нитки, шитье" url="" skinid="ht_info" tilt="7.16" title="Панно с изображением трех музыкантов" id="Point50"/>
+      <hotspot target="" pan="-4.07" description="Автор Т.Н. Чурсинова&#xa;Россия, Санкт-Петербург, 2016&#xa;Ткань хлопчатобумажная, шелк, вискоза, нитки, шитье" url="" skinid="ht_info" tilt="7.51" title="Панно с изображением женщины, играющей на уде" id="Point51"/>
+      <hotspot target="" pan="-174.95" description="В начале ХІХ века русские композиторы открывают для себя культуру востока. Это не только арабский восток, Персия, но прежде всего Кавказ. Посещая Кавказ, русские композиторы, писатели и художники были очарованы красотой природы, традиций и, конечно же, выразительностью музыки и танцев.&#xa;В русской музыкальной культуре создается множество сочинений, посвященных восточной теме, по словам Бориса Асафьева «русская музыка о востоке». Композиторы аранжировали подлинные восточные народные мелодии, или сочиняли собственные, используя элементы музыкального языка восточных народов.&#xa;Первыми интерес к ориентальному проявили А. Алябьев и М. Глинка. С необычайной красотой восточная тема представлена в сочинениях А. Рубинштейна, М. Балакирева, Н. Римского-Корсакова, М. Мусоргского, А. Бородина.&#xa;Русский музыкальный ориентализм вошел в сокровищницу мирового музыкального наследия. " url="" skinid="ht_info" tilt="-3.95" title="Русская музыка о востоке" id="Point52"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node2">
-    <input width="6897" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6897" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="0" levelingroll="0">
-      <level width="6897" predecode="0" preload="0" height="6897"/>
-      <level width="3448" predecode="0" preload="0" height="3448"/>
-      <level width="1724" predecode="0" preload="0" height="1724"/>
-      <level width="862" predecode="0" preload="0" height="862"/>
-      <level width="431" predecode="1" preload="1" height="431"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node2">
+    <input levelbiashidpi="0.400" levelingroll="0" overlap="1" levelingpitch="0" height="6897" width="6897" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6897" width="6897" predecode="0"/>
+      <level preload="0" height="3448" width="3448" predecode="0"/>
+      <level preload="0" height="1724" width="1724" predecode="0"/>
+      <level preload="0" height="862" width="862" predecode="0"/>
+      <level preload="1" height="431" width="431" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="176.64" fov="90" tilt="-2.69"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="176.64" projection="4" tilt="-2.69" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="ptgui 12 portable" source="" datetime="23.05.2025 18:19"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node1}" target="$bwd" id="Point01" pan="-170.58" description="" title="" tilt="-19.63" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 18:19" author="" longitude="" copyright="" source="" tags="ptgui 12 portable" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="$bwd" pan="-170.58" description="" url="{node1}" skinid="ht_node" tilt="-19.63" title="" id="Point01"/>
+      <hotspot target="" pan="-116.28" description="В экспозиции «Музыкальные инструменты народов мира» вслед за русскими народными инструментами представлены инструменты народов Востока, соседствующих с Россией. Один шаг в смежный зал - словно шаг на географической карте и вы попадаете в загадочную культуру Востока, такую привлекательную своей древней историей, поэзией народных легенд и изысканной красотой.&#xa;Сегодня ирано-персидские инструменты, а также инструменты народов Средней Азии и Кавказа составляют внушительную часть музейной коллекции. Ее доминанта персидские инструменты ХVIII века, переданные императрицей Марией Федоровной Музею музыкальных инструментов Придворного оркестра в 1907 году. Они экспонируются в центре зала в исторической витрине, изготовленной тогда же специально для них.&#xa;Мы назвали экспозицию «Ожерелье Шехеразады». Подобно тому, как сказки персидской царицы Шехеразады в «Тысяча одной ночи» обрастали сказками других восточных народов, дар императрицы в музейной коллекции пополнялся инструментами разных восточных народов, испытавших на протяжении тысячелетий влияние арабской и иранской культуры. В витринах представлены инструменты азербайджанцев, армян, грузин, таджиков, узбеков, киргизов, казахов, абхазов, многочисленных горских народов огромное разнообразие однотипных инструментов, главным образом XIX и XX веков. Их история начинается в древних цивилизациях, существовавших на территории современных государств Ближнего Востока, Центральной Азии и Кавказа. Древние артефакты хранятся в национальных музеях Востока. Особенность же петербургской коллекции в том, что она отражает культурные связи восточных народов с Россией.&#xa;Некоторые инструменты, представленные в экспозиции, поступили в Музей из собраний выдаю щихся музыкантов, этнографов, коллекционеров и исследователей В. В. Андреева, Н. И.Привалова, Н. Ф. Финдейзена. Это неслучайно. Они исследовали родословную русских инструментов. По ряду научных мнений русские инструменты являются адаптированными еще в Древней Руси вариантами восточных инструментов, завезенных сюда по торговым путям. Русская домра, с которой выступали В ХѴІ-ХѴІІ веках скоморохи, это метаморфоза арабского уда, которому около 4000 лет. Интересно, что балалайка на гравюрах ХѴІII века очень напоминает казахскую домбру, появившуюся не менее 1500 лет назад. Подчеркивая эти родственные связи, для экспозиции была создана видеозапись, где балалайка В. В. Андреева звучит вместе с ее прапрародителем восточным удом и в ансамбле с домрой.&#xa;Начиная с 1920-х годов в республиках СССР возникла практика создания национальных оркестров народных инструментов по примеру Великорусского оркестра им. В. В. Андреева. В республиках Средней Азии и Закавказья были организованы экспериментальные мастерские, где талантливые мастера с энтузиазмом разрабатывали оркестровые конструкции традиционных&#xa;восточных инструментов: гиджаки, кыяки, кеманчи, комузы, тары, дудуки разного диапазона звучания от пикколо до контрабаса. В экспозиции особо выделен этот комплекс экспонатов. Практика советских лет имела большое значение для развития музыкальной культуры соседних восточных народов, получивших и мотную грамоту, и свои композиторские школы. По сей день на оркестровых инструментах учатся исполнительскому мастер- ству в национальных музыкальных школах и консерваториях. А современные музыкальные мастера используют опыт своих предшественников, возрождая на новом витке истории традиционные инструменты для их звучания на больших концертных сценах.&#xa;Еще один символический знак культурной связи народов в экспозиции «Ожерелье Шехеразады рояль композитора А. П. Бородина. Русские композиторы, очарованные красотой восточной музыки, разнообразно использовали в своих произведениях подлинные восточные народ- ные мелодии. «Русская музыка о востоке вошла в сокровищницу мирового музыкального наследия. У вас есть возможность увидеть сцену из балета на музыку Н. А. Римского-Корсакова «Шехеразада» и услышать фрагмент из «Половецких плясок» А. П. Бородина, исполненный на рояле, за которым работал композитор." url="" skinid="ht_info" tilt="4.55" title="&#xa;«Ожерелье Шехеразады» Музыкальные инструменты народов Ближнего Востока, Кавказа и Средней Азии" id="Point02"/>
+      <hotspot target="" pan="-105.54" description="" url="{node9}" skinid="ht_node" tilt="-13.28" title="" id="Point03"/>
+      <hotspot target="" pan="128.02" description="" url="{node7}" skinid="ht_node" tilt="-7.75" title="" id="Point04"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
-  <panorama id="node9">
-    <input width="6797" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="6797" levelbiashidpi="0.400" levelbias="0.400" leveltilesize="510" levelingpitch="-3" levelingroll="3">
-      <level width="6797" predecode="0" preload="0" height="6797"/>
-      <level width="3398" predecode="0" preload="0" height="3398"/>
-      <level width="1699" predecode="0" preload="0" height="1699"/>
-      <level width="849" predecode="0" preload="0" height="849"/>
-      <level width="424" predecode="1" preload="1" height="424"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node9">
+    <input levelbiashidpi="0.400" levelingroll="3" overlap="1" levelingpitch="-3" height="6797" width="6797" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="6797" width="6797" predecode="0"/>
+      <level preload="0" height="3398" width="3398" predecode="0"/>
+      <level preload="0" height="1699" width="1699" predecode="0"/>
+      <level preload="0" height="849" width="849" predecode="0"/>
+      <level preload="1" height="424" width="424" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-9.11" fov="90" tilt="-1.92"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360" tilt="90"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-9.11" projection="4" tilt="-1.92" fov="90"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata copyright="" customnodeid="" info="" comment="" latitude="" description="" title="" author="" longitude="" tags="8D_photo" source="" datetime="23.05.2025 17:45"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label width="180" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" border="1" wordwrap="1" textcolor="0x000000" height="20" enabled="1" textalpha="1" borderalpha="1" borderradius="1" backgroundalpha="1"/>
-      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot url="{node1}" target="" id="Point01" pan="21.23" description="" title="" tilt="-12.8" skinid="ht_node"/>
+    <userdata datetime="23.05.2025 17:45" author="" longitude="" copyright="" source="" tags="8D_photo" latitude="" description="" info="" title="" customnodeid="" comment=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" textalpha="1" wordwrap="1" border="1" borderradius="1" height="20" enabled="1" width="180" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot target="" pan="21.82" description="" url="{node1}" skinid="ht_node" tilt="-12.77" title="" id="Point01"/>
+      <hotspot target="" pan="-1.56" description="Первый в мире концертный электромузыкальный инструмент изобрел в 1919 году физик-акустик и музыкант Лев Сергеевич Термен (1896-1993). С этой даты принято отсчитывать мировую историю электронной музыки.&#xa;На терменвоксе играют движениями рук в воздухе, изменяя параметры двух электромагнитных полей: приближение/отдаление правой руки изменяет высоту звука, приближение/отдаление левой руки меняет&#xa;громкость звука.&#xa;Первым исполнителем на терменвоксе был сам Лев Термен. В 1920-е годы он выступал с концертами-лекциями в Большом зале Петербургской филармонии, в разных городах России, крупнейших концертных залах Германии, Франции, Великобритании и США. В 1928 году состоялась премьера первого произведения для терменвокса соло и симфонического оркестра - Первая аэрофоническая сюита Иосифа Шиллингера. Исполнял Лев Термен.&#xa;Данный экземпляр создан командой Школы Терменвокса в России и передан в дар музею Марией, Натальей и Петром Термен в 2024 году" url="" skinid="ht_info" tilt="4.38" title="Терменвокс.&#xa;Электромузыкальный инструмент" id="Point02"/>
+      <hotspot target="" pan="-115.84" description="Все в мире звучит, и человек изобрел музыкальные инструменты для того, чтобы генерировать услышанные звуки и управлять ими. Предваряя знакомство с коллекцией музыкальных инструментов, авторы медиаин- сталляции погружают вас в фантазийный мир природы, где вы можете стать дирижером интерактивного пространства. Вместо дирижерских пультов - стойки с сенсорами. Движением рук: вверх-вниз, вправо-влево вы &quot;отправляете&quot; в мир свое музыкальное послание. Природный ландшафт на экране постоянно меняется, а звуки, напоминающие природные тембры, на самом деле являются записанными звуками музыкальных инструментов. Вы услышите скрипку М. Глинки, флейту императора Александра I, барабан и сакс- горн императора Александра III, африканскую маримбу, колокола, трубу-раковину, свистульки разных народов. Интерактивное пространство живет непрерывно: звезды, частицы, растения, существа, все имеет свой звук, цвет, и все во взаимодействии с вами создает переменчивые гармонические сочетания.&#xa;Медиаинсталляция призывает зрителей вслушиваться в Звук. Именно с этого начнется ваше путешествие в мир музыки и музыкальных инструментов.&#xa;В музыкознании и композиторском творчестве XX-XXI веков происходит своего рода «реабилитация» звука. Его стали понимать не только как строительный материал музыкального произведения, но как феномен, способный вмещать множество смыслов. Изучение звуков и поиски новых тембров уводят современных исследователей и музыкантов в глубину веков, в философские учения древних цивилизаций, где звук считался магической первопричиной рождения Вселенной. В экспозиции три маленьких экрана демонстрируют калейдоскоп аудио- и видеосюжетов, которые разговор о звуке и музыкальных инструментах вводят в широкий контекст научно-исторических знаний и художественного творчества. Это архаичные мифы, открытия древ- них и современных ученых, интересные звуковые явления природы, а также арт-объекты современных худож ников, вдохновляемых музыкой, растворенной в пространстве. Подобных примеров может быть много, ваша память, наверняка, подскажет вам и другие. Авторы экспозиции только хотели сказать, что знакомство с кол- лекцией музыкальных инструментов это путешествие увлекательное и полное неожиданных открытий. &#xa;Куратор проекта Р. Садыхова&#xa;Медиаинсталляция: Е. Афонин, А. Свибович, Е. Черный, А. Тихонова&#xa;Художник экспозиции Ю. Сучков&#xa;Над экспозицией работали: А. Гришин, И. Зартайская, В. Летягина, Е. Макеева" url="" skinid="ht_info" tilt="12.07" title="ИНТЕРАКТИВНАЯ ИНСТАЛЛЯЦИЯ «ЧЕЛОВЕК В ЗВУЧАЩЕМ МИРЕ»" id="Point03"/>
+      <hotspot target="" pan="-31.61" description="А. В. Римский-Корсаков, А. А. Иванов&#xa;СССР, Ленинград. 1947&#xa;Фанера, шнур, электронный механизм&#xa;" url="" skinid="ht_info" tilt="-13.15" title="Эмиритон" id="Point04"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="0" softedge="0" type="crossdissolve" zoomin="0"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control simulatemass="1" invertwheel="0" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1"/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" blendtime="0.5" blendcolor="0x000000" softedge="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" contextprojections="0" hideabout="1" lockedmouse="0" speedwheel="1" contextfullscreen="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
   </panorama>
 </tour>
